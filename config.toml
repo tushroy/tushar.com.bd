@@ -16,8 +16,8 @@ disqusShortname = ""
 	description = "Describe your website"
 	bio = "Blogger & Programmer"
 	# Enter optionally your twitter account
-	twitter = "Your Twitter account"
-	enableRSS = true
+	twitter = "roytush"
+	enableRSS = false
 
 	# Integrate Javascript files or stylesheets by adding the url to the external assets or by
 	# linking local files with their path relative to the static folder, e.g. "css/styles.css"
@@ -50,7 +50,7 @@ disqusShortname = ""
 
 # Add additional social link entries underneath
 [social]
-    twitter  = "https://www.twitter.com/"
-    facebook = "https://www.facebook.com/"
-    github   = "https://www.github.com/"
-    dribble  = "https://www.dribbble.com/"
+    twitter  = "https://www.twitter.com/roytush"
+    facebook = "https://www.facebook.com/tushroy"
+    github   = "https://www.github.com/tushroy"
+    #dribble  = "https://www.dribbble.com/"
