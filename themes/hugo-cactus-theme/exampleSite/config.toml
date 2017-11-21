@@ -1,23 +1,21 @@
 # Site settings
-baseurl = "http://tushar.com.bd/"
-themesDir = "themes"
+baseurl = "https://example.org/"
+themesDir = "../.."
 languageCode = "en-us"
-title = "Tushar Roy"
+title = "Hugo Cactus Theme"
 theme = "hugo-cactus-theme"
-publishDir = "docs"
-
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
 # Disable comments by leaving disqusShortname empty
-disqusShortname = ""
+disqusShortname = "spf13"
 
 [params]
-	name = "Tushar Roy"
+	name = "John Doe"
 	description = "Describe your website"
-	bio = "Software Engineer, Banker"
+	bio = "Blogger & Programmer"
 	# Enter optionally your twitter account
-	twitter = "roytush"
-	enableRSS = false
+	twitter = "Your Twitter account"
+	enableRSS = true
 
 	# Integrate Javascript files or stylesheets by adding the url to the external assets or by
 	# linking local files with their path relative to the static folder, e.g. "css/styles.css"
@@ -50,9 +48,7 @@ disqusShortname = ""
 
 # Add additional social link entries underneath
 [social]
-	flickr = "https://www.flickr.com/photos/125057021@N08"
-	linkedin = "https://www.linkedin.com/in/tushroy"
-    twitter  = "https://www.twitter.com/roytush"
-    #facebook = "https://www.facebook.com/tushroy"
-    github   = "https://www.github.com/tushroy"
-    #dribble  = "https://www.dribbble.com/"
+    twitter  = "https://www.twitter.com/"
+    facebook = "https://www.facebook.com/"
+    github   = "https://www.github.com/"
+    dribble  = "https://www.dribbble.com/"
