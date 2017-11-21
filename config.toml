@@ -50,7 +50,9 @@ disqusShortname = ""
 
 # Add additional social link entries underneath
 [social]
+	flickr = "https://www.flickr.com/photos/125057021@N08"
+	linkedin = "https://www.linkedin.com/in/tushroy"
     twitter  = "https://www.twitter.com/roytush"
-    facebook = "https://www.facebook.com/tushroy"
+    #facebook = "https://www.facebook.com/tushroy"
     github   = "https://www.github.com/tushroy"
     #dribble  = "https://www.dribbble.com/"
