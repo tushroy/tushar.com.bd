@@ -5,7 +5,7 @@ hidden = true
 menu = "main"
 +++
 <p align="center">
-	Tushar Roy is a tech lover. He love to read about astrophysics and computers.
+	Tushar Roy is a tech lover. He loves to read about astrophysics and computers.
 </p>
 
 
