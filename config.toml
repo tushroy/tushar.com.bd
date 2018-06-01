@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://tushar.com.bd/"
+baseurl = "//tushar.com.bd/"
 themesDir = "themes"
 languageCode = "en-us"
 title = "Tushar Roy"

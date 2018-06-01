@@ -3,22 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://tushar.com.bd/about/</loc>
+    <loc>//tushar.com.bd/about/</loc>
     <lastmod>2015-06-20T14:02:37+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tushar.com.bd/categories/</loc>
+    <loc>//tushar.com.bd/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tushar.com.bd/tags/</loc>
+    <loc>//tushar.com.bd/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tushar.com.bd/</loc>
+    <loc>//tushar.com.bd/</loc>
     <priority>0</priority>
   </url>
   

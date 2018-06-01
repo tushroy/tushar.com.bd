@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tushar Roy</title>
-    <link>http://tushar.com.bd/</link>
+    <link>//tushar.com.bd/</link>
     <description>Recent content on Tushar Roy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://tushar.com.bd/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//tushar.com.bd/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
