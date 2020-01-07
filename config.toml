@@ -15,7 +15,7 @@ disqusShortname = ""
 [params]
 	name = "Tushar Roy"
 	description = "Describe your website"
-	bio = "Software Engineer, Banker"
+	bio = "Software Engineer"
 	# Enter optionally your twitter account
 	twitter = "roytush"
 	enableRSS = false
